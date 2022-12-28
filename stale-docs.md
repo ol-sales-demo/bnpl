@@ -1,4 +1,4 @@
 # Disaster Recovery
 
-## Disaster reovery playbook
+## DR playbook
 It'll never happen to us.
